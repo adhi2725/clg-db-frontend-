@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+datetime
+base64
+mysql.connector
+ bcrypt
